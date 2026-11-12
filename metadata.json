@@ -1,0 +1,6 @@
+{
+  "name": "Parrucchiera L'Angolo di Roberta Equipe",
+  "description": "Sito ufficiale di Parrucchiera L'Angolo di Roberta Equipe a Baricella (Bologna). Taglio, piega, balayage, trattamenti e styling uomo e donna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
