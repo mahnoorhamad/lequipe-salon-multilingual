@@ -1,10 +1,14 @@
 import { ServiceItem, ReviewItem, OpeningHour, Language } from '../types';
+import heroImage from '../assets/images/hero_salon_styling_1794384332265.jpg';
+import interiorImage from '../assets/images/salon_interior_ambience_1794384333727.jpg';
+import balayageImage from '../assets/images/salon_coloring_balayage_1794384333288.jpg';
+import mensImage from '../assets/images/salon_mens_grooming_1794384334205.jpg';
 
 export const salonImages = {
-  hero: '/src/assets/images/hero_salon_styling_1794384332265.jpg',
-  interior: '/src/assets/images/salon_interior_ambience_1794384333727.jpg',
-  balayage: '/src/assets/images/salon_coloring_balayage_1794384333288.jpg',
-  mens: '/src/assets/images/salon_mens_grooming_1794384334205.jpg',
+  hero: heroImage,
+  interior: interiorImage,
+  balayage: balayageImage,
+  mens: mensImage,
 };
 
 export const salonServices: ServiceItem[] = [
